@@ -21,7 +21,7 @@ const Hero = () => {
             className='bg-gradient-to-r from-green-400 to-blue-500 text-white
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full' >Contact With Me</button>
         </a>
-        <a href="https://1drv.ms/b/c/7c5bfb7080f5c947/Ec3J7vfkgnZEvYO0ZZdzsuABzFPNcVaaIkn-FNbLHr7E6A?e=96NIpc" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1z076kWKsrgEjUJ3QRi-YnE8xxt-X3Q3A/view" target="_blank" rel="noopener noreferrer">
           <button
             className='bg-gradient-to-r from-pink-500 to-yellow-500 text-white
       transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>
